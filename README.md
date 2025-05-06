@@ -10,3 +10,4 @@
 <img align="center" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"><br>Como o código-fonte não é acessível, este repositório serve para documentar o projeto visual, ideias de design, e recursos utilizados.
 </strong></p> <br>
 
+<img align="right" src="https://github.com/nathanmacielviana/Wix-Blog/blob/main/wixblog.png">
